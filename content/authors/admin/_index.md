@@ -35,7 +35,7 @@ social:
   icon: twitter
   icon_pack: fab
   label: 
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/LauraMuozBlanc2
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
