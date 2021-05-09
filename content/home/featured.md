@@ -1,15 +1,15 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featured
+widget: 
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
-weight: 80
+weight: 
 
-title: Featured Publications
+title: 
 subtitle: ""
 
 content:
