@@ -20,10 +20,10 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: Climate change is the defining crisis of our time and disaster displacement one of its most devastating consequences (UNHCR, 2021). Recent estimates document the economic impact of forced displacement (Sequeira et al., 2021), as well as how early marriage responds to negative income shocks (Corno and Voena, 2016).  But, many theoretical and empirical puzzles remain on how the timing of marriage responds to forced displacement. This ambiguity increases when traditional norms-such as bride payments (e.g. bride price or dowry)- are part of cultural customs (Corno and et.al, 2020). Framed on this research gap, this paper seeks to answer How does forced displacement affect the timing of marriage, particularly, early marriage? and If traditional marriage payment norms influence such a relationship? To do so, I exploit a set of destructive earthquakes  in  Indonesia as  an  exogenous  proxy  of  internal  displacement.
+abstract: How does forced displacement affect the timing of marriage, particularly, early marriage? and If traditional marriage payment norms influence such a relationship?
 
 # Summary. An optional shortened abstract.
-summary: Climate change is the defining crisis of our time and disaster displacement one of its most devastating consequences (UNHCR, 2021). Recent estimates document the economic impact of forced displacement (Sequeira et al., 2021), as well as how early marriage responds to negative income shocks (Corno and Voena, 2016).  But, many theoretical and empirical puzzles remain on how the timing of marriage responds to forced displacement. This ambiguity increases when traditional norms-such as bride payments (e.g. bride price or dowry)- are part of cultural customs (Corno and et.al, 2020). Framed on this research gap, this paper seeks to answer How does forced displacement affect the timing of marriage, particularly, early marriage? and If traditional marriage payment norms influence such a relationship? To do so, I exploit a set of destructive earthquakes  in  Indonesia as  an  exogenous  proxy  of  internal  displacement.
+summary: How does forced displacement affect the timing of marriage, particularly, early marriage? and If traditional marriage payment norms influence such a relationship?
 
 tags:
 - Source Themes
