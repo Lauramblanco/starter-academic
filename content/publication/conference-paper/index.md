@@ -28,7 +28,7 @@ tags:
 featured: false
 
 links:
-url_pdf: "media/working-paper.pdf"
+url_pdf: "media/reservoir-induced displacement and social participation_LMB.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
