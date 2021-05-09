@@ -1,77 +1,57 @@
 ---
-# Display name
-title: Nelson Bighetti
+bio: PhD candidate in economics at Trinity College Dublin with research interests in applied microeconomics and development economics. 
 
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - course: PhD in Economics
+    institution: Trinity College Dublin, Ireland
+    year: present
+  - course: MS in Development Economics
+    institution:  Université Paris XII Créteil, France
+    year: 2015  
+  - course: BA in Business-Economics
+    institution: Universidad Rey Juan Carlos, Spain
+    year: 2013
+  - course: BA in Law
+    institution: Universidad Rey Juan Carlos, Spain
+    year: 2013
+email: ""
+highlight_name: false
+interests:
+- Applied Microeconomics
+- Development Economics
+- Economics History
+- Migration Economics
+organizations:
+- name: Trinity College Dublin
+  url: https://www.tcd.ie/Economics/
+role: PhD Candidate in Economics
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
+  link: /#contact
+- display:
+    header: true
+  icon: twitter
   icon_pack: fab
+  label: 
   link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
+  # Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+- icon: cv
+  icon_pack: ai
+  link: "media/cv_Munoz-Blanco.pdf"
+superuser: true
+title: Laura Muñoz Blanco
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD candidate in Economics at Trinity College Dublin. My research is at the intersection of applied microeconomics and development economics. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Much of my research uses GIS data and self-collected data to investigate the impacts of internal displacement on the population displaced and their host communities. For instance, my work tackles questions such as Do forced displaced population flows have long-term social participation effects on their host communities? or How does forced displacement affect the timing of marriage, particularly, early marriage? and If traditional marriage payment norms influence such a relationship? 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+During my Phd I have worked as a consultant for the UNDP. Previously, I worked for the United Nations and the OECD.
+
+{{< icon name="download" pack="fas" >}} Find my CV {{< staticref "media/cv_Munoz-Blanco.pdf" "newtab" >}}here{{< /staticref >}}.
