@@ -11,7 +11,7 @@ title = "Talks"
 subtitle = "Recent & Upcoming"
 
 # Order that this section will appear in.
-weight = 140
+weight = 130
 
 +++
 
@@ -28,4 +28,4 @@ July 2021
 July 2021
 
 ### PhD Working Group Department of Economics Trinity College Dublin 
-July 2021
+April 2019, Nov. 2019, March 2021
