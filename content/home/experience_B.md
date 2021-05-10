@@ -48,7 +48,7 @@ experience:
     date_end: '2018-05-31'
     
    
-  - title: Statistical Consultant
+  - title: Junior Statistical Editor
     company: Organization for Economic Cooperation and Development - OECD
     company_url: ''
     company_logo: 
@@ -65,7 +65,7 @@ experience:
     date_end: '2015-05-01'
 
     
-  - title: Junior Statistical Editor
+  - title: Statistical Consultant 
     company: Organization for Economic Cooperation and Development - OECD
     company_url: ''
     company_logo: 
