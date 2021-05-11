@@ -21,7 +21,7 @@ interests:
 - Applied Microeconomics
 - Development Economics
 - Economics History
-- Migration Economics
+- Economics of Forced Displacement
 organizations:
 - name: Trinity College Dublin
   url: https://www.tcd.ie/Economics/
